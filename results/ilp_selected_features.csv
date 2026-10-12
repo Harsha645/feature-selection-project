@@ -1,0 +1,4 @@
+candidates,method,run,features
+10,ILP,0,"worst area, mean radius, mean concavity, mean area, worst concavity"
+20,ILP,0,"mean radius, worst compactness, radius error, area error, perimeter error, worst texture, worst smoothness, worst symmetry, mean smoothness, mean texture"
+30,ILP,0,"mean radius, mean area, radius error, area error, worst texture, worst smoothness, worst symmetry, mean smoothness, mean texture, concave points error, worst fractal dimension, mean symmetry, compactness error, concavity error, smoothness error"
