@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+pulp<4
+matplotlib

@@ -1,0 +1,31 @@
+method,feature_index,feature_name
+ILP,0,mean radius
+ILP,1,mean texture
+ILP,3,mean area
+ILP,4,mean smoothness
+ILP,8,mean symmetry
+ILP,10,radius error
+ILP,13,area error
+ILP,15,compactness error
+ILP,16,concavity error
+ILP,17,concave points error
+ILP,21,worst texture
+ILP,23,worst area
+ILP,24,worst smoothness
+ILP,28,worst symmetry
+ILP,29,worst fractal dimension
+GA,0,mean radius
+GA,1,mean texture
+GA,3,mean area
+GA,4,mean smoothness
+GA,8,mean symmetry
+GA,10,radius error
+GA,13,area error
+GA,15,compactness error
+GA,16,concavity error
+GA,17,concave points error
+GA,21,worst texture
+GA,23,worst area
+GA,24,worst smoothness
+GA,28,worst symmetry
+GA,29,worst fractal dimension
